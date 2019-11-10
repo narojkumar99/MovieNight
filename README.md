@@ -9,7 +9,7 @@ P.S: [I've written a blog post about this project.](https://goo.gl/KoVEh5)
 
 ### The Motivation behind the app: ###
 During the work on this app, my goal was to leave my comfort zone as much as I could, intentionally tackling subjects I'm less familiar with or, at times, entirely new to me.
-Some of those subjects include:
+Some of those subject include:
 - The Kotlin programming language
 - Clean architecture
 - Test-driven development
